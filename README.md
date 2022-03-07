@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and React & Web3!**
 
-- 👨‍💻 All of my projects are available at [dev.sebastianyii.com](dev.sebastianyii.com)
+- 👨‍💻 All of my projects are available at [sebastianyii.com](sebastianyii.com)
 
 - 💬 Ask me about **React, Next.js or Python**
 
